@@ -99,8 +99,6 @@ retinopathy-detection/
 │   ├── confusion_matrix.png
 │   └── history.pkl
 ├── src/
-│   ├── train.py
-│   └── evaluate.py
 ├── .gitignore
 └── README.md
 👩‍💻 Author
